@@ -38,7 +38,8 @@ Ideal for beginners learning **OOP concepts** in C++.
 
 ## 📋 Menu Options
 
-[1] Check Balance
+[1] Check Balance 
+
 [2] Cash Withdraw
 [3] Cash Deposit
 [4] Show User Details
@@ -62,7 +63,7 @@ Ideal for beginners learning **OOP concepts** in C++.
 
 ******** WELCOME TO ATM ********
 
-Enter your Account Number: 123456
+Enter your Account Number: 123456 
 Enter your PIN: 2222
 
 OPTIONS:
