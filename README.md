@@ -61,19 +61,19 @@ Ideal for beginners learning **OOP concepts** in C++.
 
 ## 📷 Sample Screenshot
 
-******** WELCOME TO ATM ********
+******** WELCOME TO ATM ********  
 
-Enter your Account Number: 123456 
-Enter your PIN: 2222
+Enter your Account Number: 123456  
+Enter your PIN: 2222  
 
-OPTIONS:
-[1] Check Balance
-[2] Cash Withdraw
-[3] Cash Deposit
-[4] Show User Details
-[5] Update PIN
-[6] Update Mobile Number
-[7] Exit
+OPTIONS:  
+[1] Check Balance  
+[2] Cash Withdraw  
+[3] Cash Deposit  
+[4] Show User Details  
+[5] Update PIN  
+[6] Update Mobile Number  
+[7] Exit  
 
 
 ---
