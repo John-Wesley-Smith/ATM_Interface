@@ -38,14 +38,14 @@ Ideal for beginners learning **OOP concepts** in C++.
 
 ## 📋 Menu Options
 
-[1] Check Balance 
+[1] Check Balance  
+[2] Cash Withdraw  
+[3] Cash Deposit  
+[4] Show User Details  
+[5] Update PIN  
+[6] Update Mobile Number  
+[7] Exit  
 
-[2] Cash Withdraw
-[3] Cash Deposit
-[4] Show User Details
-[5] Update PIN
-[6] Update Mobile Number
-[7] Exit
 
 
 ---
