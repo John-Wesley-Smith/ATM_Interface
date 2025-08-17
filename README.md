@@ -61,20 +61,64 @@ Ideal for beginners learning **OOP concepts** in C++.
 
 ## 📷 Sample Screenshot
 
-******** WELCOME TO ATM ********  
+```
+ ===================================
+|| WELCOME TO ADAS BANK ATM MACHINE  ||
+ =====================================
+ =====================================
 
-Enter your Account Number: 123456  
-Enter your PIN: 2222  
 
-OPTIONS:  
-[1] Check Balance  
-[2] Cash Withdraw  
-[3] Cash Deposit  
-[4] Show User Details  
-[5] Update PIN  
-[6] Update Mobile Number  
-[7] Exit  
+Please Enter the pincode: 1234
 
+ Welcome To ADAS
+Enter your password : 7777
+
+        ATM
+choose a Transaction 
+
+MAIN SCREEN 
+[1] Inquire Balance
+[2] Withdraw
+[3] Deposite
+[4] Quit
+
+Enter Option : 1
+Balace Inquiry
+Your current balance in Rupees: 100000
+
+MAIN SCREEN 
+[1] Inquire Balance
+[2] Withdraw
+[3] Deposite
+[4] Quit
+
+Enter Option : 2
+Withdraw
+Enter the Amount in Rupees: 5000
+You withdraw Rupees: 5000
+Your remaining balance is Rupees: 95000
+
+MAIN SCREEN 
+[1] Inquire Balance
+[2] Withdraw
+[3] Deposite
+[4] Quit
+
+Enter Option : 3
+Deposit
+Enter the Amount in Rupees: 2000
+You deposited Rupees: 2000
+You new Balance is Rupees: 97000
+
+MAIN SCREEN 
+[1] Inquire Balance
+[2] Withdraw
+[3] Deposite
+[4] Quit
+
+Enter Option : 4
+EXIT MODE
+```
 
 ---
 
