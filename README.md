@@ -62,62 +62,116 @@ Ideal for beginners learning **OOP concepts** in C++.
 ## 📷 Sample Screenshot
 
 ```
- ===================================
-|| WELCOME TO ADAS BANK ATM MACHINE  ||
- =====================================
- =====================================
+ ******** WECOME TO ATM *********
+
+Enter your Account Number: 123456
+
+Enter your PIN: 2222
 
 
-Please Enter the pincode: 1234
+         OPTIONS: 
 
- Welcome To ADAS
-Enter your password : 7777
+ [1] Check Balance 
+ [2] Cash Withdraw
+ [3] Cash Deposite
+ [4] Show User Details
+ [5] Update Pin
+ [6] Update Mobile Number
+ [7] Exit
 
-        ATM
-choose a Transaction 
+ Enter your option: 1
 
-MAIN SCREEN 
-[1] Inquire Balance
-[2] Withdraw
-[3] Deposite
-[4] Quit
+ Your Bank Balance is: 80000
 
-Enter Option : 1
-Balace Inquiry
-Your current balance in Rupees: 100000
 
-MAIN SCREEN 
-[1] Inquire Balance
-[2] Withdraw
-[3] Deposite
-[4] Quit
+         OPTIONS: 
 
-Enter Option : 2
-Withdraw
-Enter the Amount in Rupees: 5000
-You withdraw Rupees: 5000
-Your remaining balance is Rupees: 95000
+ [1] Check Balance 
+ [2] Cash Withdraw
+ [3] Cash Deposite
+ [4] Show User Details
+ [5] Update Pin
+ [6] Update Mobile Number
+ [7] Exit
 
-MAIN SCREEN 
-[1] Inquire Balance
-[2] Withdraw
-[3] Deposite
-[4] Quit
+ Enter your option: 2
 
-Enter Option : 3
-Deposit
-Enter the Amount in Rupees: 2000
-You deposited Rupees: 2000
-You new Balance is Rupees: 97000
+ Enter The Amount: 5000
 
-MAIN SCREEN 
-[1] Inquire Balance
-[2] Withdraw
-[3] Deposite
-[4] Quit
+ Please Collect your Cash
+ Availabe Balance is 75000
 
-Enter Option : 4
-EXIT MODE
+
+         OPTIONS: 
+
+ [1] Check Balance 
+ [2] Cash Withdraw
+ [3] Cash Deposite
+ [4] Show User Details
+ [5] Update Pin
+ [6] Update Mobile Number
+ [7] Exit
+
+ Enter your option: 3
+
+ Enter the Amount: 3000
+
+The Amount is Successfully Deposited
+ Available Balance is: 78000
+
+
+         OPTIONS: 
+
+ [1] Check Balance 
+ [2] Cash Withdraw
+ [3] Cash Deposite
+ [4] Show User Details
+ [5] Update Pin
+ [6] Update Mobile Number
+ [7] Exit
+
+ Enter your option: 4
+
+ The Account Details: 
+
+ Account No: 123456
+ Name: Jude
+ Balance: 78000
+ Mobile Number: 9922334455
+
+
+         OPTIONS: 
+
+ [1] Check Balance 
+ [2] Cash Withdraw
+ [3] Cash Deposite
+ [4] Show User Details
+ [5] Update Pin
+ [6] Update Mobile Number
+ [7] Exit
+
+ Enter your option: 6
+
+ Enter the old Mobile number: 9922334455
+ Enter the new Mobile number: 9988776655
+
+Successfully Mobile Number Updated
+
+
+         OPTIONS: 
+
+ [1] Check Balance 
+ [2] Cash Withdraw
+ [3] Cash Deposite
+ [4] Show User Details
+ [5] Update Pin
+ [6] Update Mobile Number
+ [7] Exit
+
+ Enter your option: 7
+
+        Thank You!! Visit Again!!
+
 ```
 
 ---
